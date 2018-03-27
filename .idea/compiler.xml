@@ -11,6 +11,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="blog-common" target="1.9" />
+      <module name="demo" target="1.8" />
       <module name="Thumb-Blog" target="1.9" />
     </bytecodeTargetLevel>
   </component>
